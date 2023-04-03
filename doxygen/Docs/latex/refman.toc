@@ -1,0 +1,95 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Namespace Index}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Namespace List}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Data Structure Index}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Data Structures}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}File Index}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}File List}{5}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Namespace Documentation}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}ce100\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw2\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}haluk\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}kurtulus Namespace Reference}{7}{section.4.1}%
+\contentsline {section}{\numberline {4.2}ce100\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw2\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}haluk\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}kurtulus\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}test Namespace Reference}{7}{section.4.2}%
+\contentsline {section}{\numberline {4.3}ce100\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw2\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}test Namespace Reference}{7}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Data Structure Documentation}{9}{chapter.5}%
+\contentsline {section}{\numberline {5.1}ce100\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw2\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}haluk\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}kurtulus.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}GFG Class Reference}{9}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Member Function Documentation}{9}{subsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.1}Main()}{9}{subsubsection.5.1.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.1.2}MatrixChainOrder()}{10}{subsubsection.5.1.1.2}%
+\contentsline {section}{\numberline {5.2}ce100\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw2\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}haluk\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}kurtulus.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}GFG2 Class Reference}{11}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Member Function Documentation}{11}{subsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}MatrixChainOrder()}{11}{subsubsection.5.2.1.1}%
+\contentsline {section}{\numberline {5.3}ce100\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw2\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}haluk\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}kurtulus.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}GFG3 Class Reference}{12}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Member Function Documentation}{12}{subsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.1}matrixChainMemoised()}{12}{subsubsection.5.3.1.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.2}MatrixChainOrder()}{13}{subsubsection.5.3.1.2}%
+\contentsline {subsection}{\numberline {5.3.2}Field Documentation}{14}{subsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.2.1}dp}{14}{subsubsection.5.3.2.1}%
+\contentsline {section}{\numberline {5.4}ce100\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw2\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}haluk\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}kurtulus.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Heap\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Sort Class Reference}{14}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Member Function Documentation}{15}{subsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.1.1}heapify()}{15}{subsubsection.5.4.1.1}%
+\contentsline {subsubsection}{\numberline {5.4.1.2}Main()}{16}{subsubsection.5.4.1.2}%
+\contentsline {subsubsection}{\numberline {5.4.1.3}printArray()}{17}{subsubsection.5.4.1.3}%
+\contentsline {subsubsection}{\numberline {5.4.1.4}sort()}{17}{subsubsection.5.4.1.4}%
+\contentsline {section}{\numberline {5.5}ce100\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw2\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}test.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Heap\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Sort\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{19}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Member Function Documentation}{19}{subsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5.5.1.1}MatrixChainOrder\_BestCase()}{19}{subsubsection.5.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.5.1.2}MatrixChainOrder\_BestCase\_ReturnsCorrectResult()}{20}{subsubsection.5.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.5.1.3}Sort\_BestCase()}{20}{subsubsection.5.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.5.1.4}Sort\_worstCase()}{20}{subsubsection.5.5.1.4}%
+\contentsline {subsubsection}{\numberline {5.5.1.5}TestHeapSortavaregacase()}{21}{subsubsection.5.5.1.5}%
+\contentsline {subsubsection}{\numberline {5.5.1.6}TestknapcsackWorstCase()}{21}{subsubsection.5.5.1.6}%
+\contentsline {subsubsection}{\numberline {5.5.1.7}TestKnapSackAverageCase()}{21}{subsubsection.5.5.1.7}%
+\contentsline {subsubsection}{\numberline {5.5.1.8}TestKnapSackBestCase()}{22}{subsubsection.5.5.1.8}%
+\contentsline {subsubsection}{\numberline {5.5.1.9}TestLCS\_WorstCase()}{22}{subsubsection.5.5.1.9}%
+\contentsline {subsubsection}{\numberline {5.5.1.10}TestLCSavaragecase()}{22}{subsubsection.5.5.1.10}%
+\contentsline {subsubsection}{\numberline {5.5.1.11}TestLCSBestCase()}{23}{subsubsection.5.5.1.11}%
+\contentsline {subsubsection}{\numberline {5.5.1.12}TestMatrixChainMultiplicationavaragecase()}{23}{subsubsection.5.5.1.12}%
+\contentsline {subsubsection}{\numberline {5.5.1.13}TestMatrixChainOrder\_AverageCase()}{23}{subsubsection.5.5.1.13}%
+\contentsline {subsubsection}{\numberline {5.5.1.14}TestMatrixChainOrder\_BestCase()}{24}{subsubsection.5.5.1.14}%
+\contentsline {subsubsection}{\numberline {5.5.1.15}TestMatrixChainOrder\_WorstCase()}{24}{subsubsection.5.5.1.15}%
+\contentsline {subsubsection}{\numberline {5.5.1.16}TestMatrixChainOrderavaragecase()}{24}{subsubsection.5.5.1.16}%
+\contentsline {subsubsection}{\numberline {5.5.1.17}TestMatrixChainOrderworstcase()}{25}{subsubsection.5.5.1.17}%
+\contentsline {subsubsection}{\numberline {5.5.1.18}TestWorstCasegfc3()}{25}{subsubsection.5.5.1.18}%
+\contentsline {section}{\numberline {5.6}ce100\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw2\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}haluk\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}kurtulus\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}test.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Heap\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Sort\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Tests Class Reference}{25}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Member Function Documentation}{26}{subsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.1.1}TestHeapSort()}{26}{subsubsection.5.6.1.1}%
+\contentsline {subsubsection}{\numberline {5.6.1.2}TestHeapSortWithDuplicateElements()}{26}{subsubsection.5.6.1.2}%
+\contentsline {subsubsection}{\numberline {5.6.1.3}TestHeapSortWithEmptyArray()}{26}{subsubsection.5.6.1.3}%
+\contentsline {subsubsection}{\numberline {5.6.1.4}TestHeapSortWithLargeArray()}{27}{subsubsection.5.6.1.4}%
+\contentsline {subsubsection}{\numberline {5.6.1.5}TestHeapSortWithReverseSortedArray()}{27}{subsubsection.5.6.1.5}%
+\contentsline {subsubsection}{\numberline {5.6.1.6}TestHeapSortWithSingleElementArray()}{27}{subsubsection.5.6.1.6}%
+\contentsline {subsubsection}{\numberline {5.6.1.7}TestHeapSortWithSortedArray()}{28}{subsubsection.5.6.1.7}%
+\contentsline {section}{\numberline {5.7}ce100\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw2\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}haluk\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}kurtulus.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}KNAPSACK Class Reference}{28}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Member Function Documentation}{28}{subsection.5.7.1}%
+\contentsline {subsubsection}{\numberline {5.7.1.1}knapSack()}{28}{subsubsection.5.7.1.1}%
+\contentsline {subsubsection}{\numberline {5.7.1.2}max()}{29}{subsubsection.5.7.1.2}%
+\contentsline {section}{\numberline {5.8}KNAPSACKTests Class Reference}{30}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Member Function Documentation}{30}{subsection.5.8.1}%
+\contentsline {subsubsection}{\numberline {5.8.1.1}TestKnapSack()}{30}{subsubsection.5.8.1.1}%
+\contentsline {section}{\numberline {5.9}ce100\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}hw2\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}haluk\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}kurtulus.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}LCS Class Reference}{31}{section.5.9}%
+\contentsline {subsection}{\numberline {5.9.1}Member Function Documentation}{31}{subsection.5.9.1}%
+\contentsline {subsubsection}{\numberline {5.9.1.1}lcs()}{31}{subsubsection.5.9.1.1}%
+\contentsline {subsubsection}{\numberline {5.9.1.2}Main()}{32}{subsubsection.5.9.1.2}%
+\contentsline {subsubsection}{\numberline {5.9.1.3}max()}{32}{subsubsection.5.9.1.3}%
+\contentsline {section}{\numberline {5.10}LCSUnit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test Class Reference}{33}{section.5.10}%
+\contentsline {subsection}{\numberline {5.10.1}Member Function Documentation}{33}{subsection.5.10.1}%
+\contentsline {subsubsection}{\numberline {5.10.1.1}TestLCS()}{33}{subsubsection.5.10.1.1}%
+\contentsline {section}{\numberline {5.11}Matrix\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Chain\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Multiplication\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Tests Class Reference}{34}{section.5.11}%
+\contentsline {subsection}{\numberline {5.11.1}Member Function Documentation}{34}{subsection.5.11.1}%
+\contentsline {subsubsection}{\numberline {5.11.1.1}TestMatrixChainMultiplication()}{34}{subsubsection.5.11.1.1}%
+\contentsline {section}{\numberline {5.12}Matrix\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Chain\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Order\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Tests Class Reference}{34}{section.5.12}%
+\contentsline {subsection}{\numberline {5.12.1}Member Function Documentation}{34}{subsection.5.12.1}%
+\contentsline {subsubsection}{\numberline {5.12.1.1}MatrixChainOrder\_Test()}{35}{subsubsection.5.12.1.1}%
+\contentsline {chapter}{\numberline {6}File Documentation}{37}{chapter.6}%
+\contentsline {section}{\numberline {6.1}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw1-\/haluk-\/kurtulus/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Class1.cs File Reference}{37}{section.6.1}%
+\contentsline {section}{\numberline {6.2}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw1-\/haluk-\/kurtulus/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/net6.0/.NETCore\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}App,Version=v6.0.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{38}{section.6.2}%
+\contentsline {section}{\numberline {6.3}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw2-\/test/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/net6.0/.NETCore\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}App,Version=v6.0.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{38}{section.6.3}%
+\contentsline {section}{\numberline {6.4}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw1-\/haluk-\/kurtulus/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/net6.0/ce100-\/hw1-\/haluk-\/kurtulus.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{38}{section.6.4}%
+\contentsline {section}{\numberline {6.5}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw1-\/haluk-\/kurtulus/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/net6.0/ce100-\/hw1-\/haluk-\/kurtulus.Global\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Usings.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}g.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{38}{section.6.5}%
+\contentsline {section}{\numberline {6.6}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw2-\/haluk-\/kurtulus/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/.NETFramework,Version=v4.8.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{38}{section.6.6}%
+\contentsline {section}{\numberline {6.7}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw2-\/haluk-\/kurtulus/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Properties/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.cs File Reference}{38}{section.6.7}%
+\contentsline {section}{\numberline {6.8}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw2-\/haluk-\/kurtulus/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test1.cs File Reference}{38}{section.6.8}%
+\contentsline {section}{\numberline {6.9}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw2-\/test/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Unit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Test1.cs File Reference}{39}{section.6.9}%
+\contentsline {section}{\numberline {6.10}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw2-\/test/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/net6.0/ce100-\/hw2-\/test.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{39}{section.6.10}%
+\contentsline {section}{\numberline {6.11}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw2-\/test/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/net6.0/ce100-\/hw2-\/test.Global\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Usings.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}g.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{39}{section.6.11}%
+\contentsline {section}{\numberline {6.12}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/ce100-\/hw2-\/haluk-\/kurtulus/ce100-\/hw2-\/test/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Usings.cs File Reference}{39}{section.6.12}%
+\contentsline {chapter}{Index}{41}{section*.79}%

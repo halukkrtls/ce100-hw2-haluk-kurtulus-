@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ce100-hw1-haluk-kurtulus", "ce100-hw1-haluk-kurtulus\ce100-hw1-haluk-kurtulus.csproj", "{71BE2FC1-DBA2-4AE3-9ADC-931A09A31C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce100-hw2-test", "ce100-hw2-test\ce100-hw2-test.csproj", "{DA0C5343-2A51-45DD-8451-EDC6C03119EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BE2FC1-DBA2-4AE3-9ADC-931A09A31C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BE2FC1-DBA2-4AE3-9ADC-931A09A31C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BE2FC1-DBA2-4AE3-9ADC-931A09A31C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BE2FC1-DBA2-4AE3-9ADC-931A09A31C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0C5343-2A51-45DD-8451-EDC6C03119EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0C5343-2A51-45DD-8451-EDC6C03119EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0C5343-2A51-45DD-8451-EDC6C03119EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0C5343-2A51-45DD-8451-EDC6C03119EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {437968F4-5291-48F5-B43C-7F219CAA70B7}
+	EndGlobalSection
+EndGlobal
